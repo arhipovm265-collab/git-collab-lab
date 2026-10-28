@@ -9,3 +9,9 @@
 ## Описание проекта
 
 Репозиторий для отработки совместной работы: ветки, pull request, код-ревью, разрешение конфликтов, issues и GitHub Actions.
+
+## Установка
+
+```
+git clone https://github.com/arhipovm265-collab/git-collab-lab.git
+```
