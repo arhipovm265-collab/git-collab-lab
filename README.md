@@ -15,3 +15,7 @@
 ```
 git clone https://github.com/arhipovm265-collab/git-collab-lab.git
 ```
+
+## Использование
+
+Откройте README.md и следуйте инструкциям.
